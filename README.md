@@ -12,7 +12,7 @@ Table of Contents:
 6.License
 
 Demo
-Check out the live demo of the portfolio website: [Portfolio Website Demo](https://tangerine-hummingbird-1479b6.netlify.app/#projects)
+Check out the live demo of the portfolio website: [Portfolio Website Demo](https://harsh-yelwatkar-portfolio.netlify.app/)
 
 Features
 1. Navigation Bar and Footer Sections
